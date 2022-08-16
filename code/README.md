@@ -1,5 +1,3 @@
-This folder contains the code used in the thesis. 
-
 ## codes
 
 The **codes** folder contains the used quantum codes in the ALIST file format (see http://www.inference.org.uk/mackay/codes/alist.html for further information).
